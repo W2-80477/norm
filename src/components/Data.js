@@ -21,6 +21,18 @@ const data=[
        id:4,
        url:"https://normcph.com/new/2018/wp-content/uploads/2022/07/NormArchitects_%C3%84ng_JonasBjerrePoulsen_Lowres_31-1.jpg" 
     },
+    {
+       id:5,
+       url:"https://normcph.com/new/2018/wp-content/uploads/2020/11/NORM_ARCHITECTS_FJORD_BOAT_HOUSE_16.jpg" 
+    },
+    {
+       id:6,
+       url:"https://normcph.com/new/2018/wp-content/uploads/2022/04/NormArchitects_Koio_JBP_lowres_14.jpg" 
+    },
+    {
+      id:7,
+      url:"https://normcph.com/new/2018/wp-content/uploads/2022/02/2022.01.07_Norm_Architects_Xiamen_Basao_Tea_Store_0011_v1_LO-RES_COVER-1.jpg" 
+   },
    
     
 ]
