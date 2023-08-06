@@ -10,7 +10,7 @@ function App() {
       <Carousel
         loop={true}
         autoplay={true}
-        autoplayDelay={4000}
+        autoplayDelay={7000}
         transition={{duration:0.8}}
         className=" overflow-hidden"
         navigation={({ setActiveIndex, activeIndex, length }) => (
