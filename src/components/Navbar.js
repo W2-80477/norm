@@ -1,4 +1,4 @@
-import React from "react";
+import React,{useState} from "react";
 import {
   Accordion,
   AccordionHeader,
@@ -11,7 +11,7 @@ import { AiOutlineSearch } from "react-icons/ai"
 
 function Navbar() {
 
-  const [open, setOpen] = React.useState(0);
+  const [open, setOpen] = useState(0);
 
   const handleOpen = (value) => setOpen(open === value ? 0 : value);
   return (
